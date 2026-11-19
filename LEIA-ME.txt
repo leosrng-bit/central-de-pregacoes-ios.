@@ -1,0 +1,14 @@
+CENTRAL DE PREGAÇÕES V9.0 — CANDIDATA À VERSÃO DEFINITIVA
+
+Publicação: extraia este ZIP e envie a pasta com index.html, service-worker.js, manifests e ícones para o Netlify de TESTES.
+Não substitua a versão principal antes dos testes.
+
+Novidades:
+- Rascunho local recuperável durante a edição de sermões. O sermão definitivo só muda ao clicar em Salvar.
+- Alertas configuráveis (10, 5, 3 ou 1 minuto, ou desligados) e opção de pulsação.
+- Indicador de falta de conexão e cache offline com escopo relativo.
+- Mantidas a separação visual dos subtópicos, navegação, modo foco, relógio, backup JSON e bloqueio de tela quando suportado.
+
+Testes indispensáveis: editar/salvar/reabrir; interromper edição e recuperar rascunho; exportar/importar backup de teste; modo offline após primeira abertura online; timer e alertas; Android e Safari iPhone.
+
+IMPORTANTE: armazenamento é local por origem e dispositivo, sem sincronização automática. Exporte backups antes de atualizar ou desinstalar. O bloqueio de tela depende de suporte/permissão do navegador. Para atualizar APK Android sem perder dados, será necessária assinatura estável.

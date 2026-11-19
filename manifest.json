@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Central de Pregações",
+  "short_name": "Pregações",
+  "description": "Organize sermões, igrejas, agenda e histórico de pregações com modo púlpito e temporizador.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#173b35",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
